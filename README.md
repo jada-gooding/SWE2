@@ -1,3 +1,3 @@
 # SWE2
 
-Repo to track Sprint Process
+Repo to track 32GBs Project Progress
