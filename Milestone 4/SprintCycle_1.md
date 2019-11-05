@@ -1,10 +1,12 @@
 <h2><i>Sprint Backlog Cycle #1</i></h2>
 
 </br>
+<p>
 This document contains the tasks for the first sprint. 
 </p>
 
-<b> A. Task Description:</b></bt> Viewing the Menu Items & more info details such as ingredients, price etc.
+<b><i> A. Task Description:</i></b>Viewing the Menu Items & more info details such as ingredients, price etc.
+
 </br><b>Task Activities:</b>
 <ol> (1) Add Menu Appetizer items to local db</ol> 
 <ol> (2) Add Menu Entrees items to local db</ol> 
@@ -16,7 +18,8 @@ This document contains the tasks for the first sprint.
 <ol> (8) Add functionality to view drinks </ol> 
 
 </br>
-<b>B. Task Description:</b></bt> Create the main screen and add functionality to its components.
+<b><i>B. Task Description:</i></b>Create the main screen and add functionality to its components.
+
 </br><b>Task Activities:</b>
 <ol> (9) Create home/main screen </ol>
 <ol> (10) Add functionality to the homescreen appetizers button</ol> 
