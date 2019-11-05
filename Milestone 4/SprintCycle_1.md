@@ -1,4 +1,4 @@
-<h2><i>Sprint Backlog: Cycle #1</i></h2>
+<h2><i>Sprint Cycle #1 Notes</i></h2>
 
 </br>
 
