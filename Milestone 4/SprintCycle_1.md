@@ -4,7 +4,7 @@
 This document contains the tasks for the first sprint. 
 </p>
 
-<b> A. Task Description:</b></bt> Viewing the Menu Items & more info details such as ingredients, price etc.
+<b> A. Task Description:</b> Viewing the Menu Items & more info details such as ingredients, price etc.
 
 <b>Task Activities:</b>
 <ol> (1) Add Menu Appetizer items to local db</ol> 
@@ -17,7 +17,7 @@ This document contains the tasks for the first sprint.
 <ol> (8) Add functionality to view drinks </ol> 
 
 </br>
-<b>B. Task Description:</b></bt> Create the main screen and add functionality to its components.
+<b>B. Task Description:</b> Create the main screen and add functionality to its components.
 
 <b>Task Activities:</b></br>
 
