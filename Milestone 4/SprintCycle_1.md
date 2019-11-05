@@ -1,6 +1,6 @@
 <h2><i>Sprint Backlog Cycle #1</i></h2>
 
-</br>
+
 <p>
 This document contains the tasks for the first sprint. 
 </p>
