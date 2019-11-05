@@ -1,4 +1,4 @@
-<h2><i>Sprint Backlog Cycle #1/i></h2>
+<h2><i>Sprint Backlog Cycle #1</i></h2>
 
 </br>
 This document contains the tasks for the first sprint. 
@@ -20,7 +20,6 @@ This document contains the tasks for the first sprint.
 <b>B. Task Description:</b></bt> Create the main screen and add functionality to its components.
 
 <b>Task Activities:</b>
-
 <ol> (9) Create home/main screen </ol>
 <ol> (10) Add functionality to the homescreen appetizers button</ol> 
 <ol> (11) Add functionality to the homescreen main course button</ol> 
