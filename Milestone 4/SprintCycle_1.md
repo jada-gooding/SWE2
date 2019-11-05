@@ -1,8 +1,8 @@
 <h2><i>Sprint Backlog Cycle #1/i></h2>
 
 </br>
-This document contains the tasks for the first sprint.
-</br>
+This document contains the tasks for the first sprint. 
+</p>
 
 <b> A. Task Description:</b></bt> Viewing the Menu Items & more info details such as ingredients, price etc.
 
@@ -18,6 +18,7 @@ This document contains the tasks for the first sprint.
 
 </br>
 <b>B. Task Description:</b></bt> Create the main screen and add functionality to its components.
+
 <b>Task Activities:</b>
 
 <ol> (9) Create home/main screen </ol>
