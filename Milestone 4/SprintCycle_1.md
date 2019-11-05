@@ -1,18 +1,37 @@
 <h2><i>Sprint Cycle #1 Notes</i></h2>
-
+This document contains the tasks for the first sprint.
 </br>
 
 <b>Task Description:</b></bt> Viewing the Menu Items & more info details such as ingredients, price etc.
 
 <b>Task Activities:</b>
 <ol> (1) Create home/main screen </ol>
-<ol> (2) Menu View Appetizers </ol> 
-<ol> (3) Menu View Entrees </ol> 
-<ol> (4) Menu Desserts </ol> 
-<ol> (5) Menu Drinks </ol> 
+<ol> (2) Add Menu Appetizer items to local db</ol> 
+<ol> (3) Add Menu Entrees items to local db</ol> 
+<ol> (4) Add Menu Desserts items to local db</ol> 
+<ol> (5) Add Menu Drinks items to local db</ol> 
+<ol> (6) Add functionality to view appetizers </ol> 
+<ol> (7) Add functionality to view main courses </ol> 
+<ol> (8) Add functionality to view desserts </ol> 
+<ol> (9) Add functionality to view drinks </ol> 
+<ol> (10) Add functionality to the homescreen appetizers button</ol> 
+<ol> (11) Add functionality to the homescreen main course button</ol> 
+<ol> (12) Add functionality to the homescreen desserts button</ol> 
+<ol> (13) Add functionality to the homescreen drinks button</ol> 
+<ol> (14) Add functionality to the homescreen call waiter button </ol> 
+<ol> (15) Add functionality to the homescreen view bill</ol> 
+<ol> (16) Add functionality to the homescreen my order button </ol> 
+<ol> (17) Adjust the homescreen layout</ol> 
+
+
+
+
 
 
 
 </br><b> Notes:</b></br>
  We discussed 3 items per category to have suffienct material the menu sections, Model screens as close to the prototype develeoped.
  Refer to groupchat for more details.
+
+
+
