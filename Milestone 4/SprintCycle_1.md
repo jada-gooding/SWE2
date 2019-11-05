@@ -4,6 +4,7 @@
 <p>
 This document contains the tasks for the first sprint. 
 </p>
+</br>
 
 <b><i> A. Task Description:</i></b> Viewing the Menu Items & more info details such as ingredients, price etc.
 
