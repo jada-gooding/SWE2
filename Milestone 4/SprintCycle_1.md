@@ -19,7 +19,8 @@ This document contains the tasks for the first sprint.
 </br>
 <b>B. Task Description:</b></bt> Create the main screen and add functionality to its components.
 
-<b>Task Activities:</b>
+<b>Task Activities:</b></br>
+
 <ol> (9) Create home/main screen </ol>
 <ol> (10) Add functionality to the homescreen appetizers button</ol> 
 <ol> (11) Add functionality to the homescreen main course button</ol> 
