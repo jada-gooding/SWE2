@@ -1,4 +1,3 @@
-# SWE2
 
 
 <h1>Software Engineering 32GB Group Project</h1>
