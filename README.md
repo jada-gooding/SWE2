@@ -5,7 +5,7 @@
 <p>This is the Github repository for the COMP 3613 - Software Engineering II project.</p></br>
 
 <h2>Overview: </h2>
-<p>The application is a GPA calculation application that will allow users to calculate their cumulative and degree GPAs. It will also allow them to get information on the minimum amount of grades needed to achieve a target grade. </p></br>
+<p>TBA. </p></br>
 
 <h2>Structure: </h2>
 <p>
