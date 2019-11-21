@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".drinksDetail"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="match_parent"
+        android:layout_height="148dp" />
+
+    <TextView
+        android:id="@+id/drinkName"
+        android:layout_width="382dp"
+        android:layout_height="97dp"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/drinkPrice"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/drinkDesc"
+        android:layout_width="395dp"
+        android:layout_height="101dp"
+        android:layout_marginBottom="11dp"
+        android:textSize="18sp" />
+
+    <com.cepheuen.elegantnumberbutton.view.ElegantNumberButton
+        android:id="@+id/quantityBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/addOrder"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/addOrder"
+        android:onClick="addToOrder"/>
+
+</LinearLayout>
