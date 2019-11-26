@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">R.O.A</string>
+
+
+    <string-array name="availableAppetizers">
+        <item>Pork Belly Nachos</item>
+        <item>Spicy Chicken sliders</item>
+        <item>Latin Spinach and Queso Dip</item>
+        <item>Grilled Vegetable Tostadas</item>
+        <item>Loaded Potato Skins</item>
+
+    </string-array>
+
+    <string-array name="AppetizerPrices">
+        <item>$79.00</item>
+        <item>$85.00</item>
+        <item>$65.00</item>
+        <item>$65.00</item>
+        <item>$70.00</item>
+    </string-array>
+
+    <string-array name="AppetizerDesc">
+        <item>Lightly spiced crisp tortillas topped with sweet braised pork belly, charred green tomato salsa and our Godzilla sauce made of basil oil and jalapeño garlic cream.</item>
+        <item>Three juicy sliders with deep fried chicken tenders, topped with our honey peppers sauce, pickled red onions and sriracha aioli</item>
+        <item>Fresh spinach and white cheddar queso topped with Parmesan cheese and breadcrumbs. Served with tortilla chips, salsa and guacamole. </item>
+        <item>Crisp tostadas topped with fresh guacamole, grilled vegetables, crisp romaine lettuce, queso fresco and pico de gallo. Garnished with chopped cilantro and a lime wedge. </item>
+        <item>Potato skins loaded with Southwest vegetables, Godzilla sauce and melted Monterey Jack cheese sauce. </item>
+    </string-array>
+
+    <string-array name="AppetizerImages">
+        <item>@drawable/porkbellynachos</item>
+        <item>@drawable/sliders</item>
+        <item>@drawable/advacodnachos</item>
+        <item>@drawable/vegetostadas</item>
+        <item>@drawable/potatoskins</item>
+    </string-array>
+
+    <string name="Appetizers">Appetizers</string>
+
+
+    <string-array name="availableMainCourse">
+        <item>STEAK AND GARLIC FRIES*</item>
+        <item>CRISPY CHICKEN TENDERS</item>
+        <item>WICKED CHICKEN</item>
+    </string-array>
+
+    <string-array name="mainCoursePrices">
+        <item>$265.00</item>
+        <item>$89.00</item>
+        <item>$109.00</item>
+    </string-array>
+
+    <string-array name="mainCourseDesc">
+        <item>A steakhouse classic. Char-grilled 12 oz. ribeye with savoury herb butter melted on top. Served with crispy thin cut fries tossed in Parmesan cheese and garlic butter, a Parmesan-crusted broiled tomato half and horseradish sauce.</item>
+        <item>Our tender, juicy, crispy chicken tenders are drizzled with honey and served with honey mustard dressing and crispy seasoned fries.</item>
+        <item>Cajun-spiced chicken breasts topped with Cajun cream sauce served over savoury rice. Served with New Orleans corn cobs and a side of Cajun cream sauce.</item>
+    </string-array>
+
+    <string-array name="mainCourseImages">
+        <item>@drawable/fries</item>
+        <item>@drawable/tenders</item>
+        <item>@drawable/chicken</item>
+    </string-array>
+
+    <string name="mainCourse">mainCourse</string>
+
+
+    <string name="title_activity_dessert_list">dessertList</string>
+    <string name="title_activity_dessert_detail">dessertDetail</string>
+
+    <string-array name="availableDesserts">
+        <item>BROWNIE OBSESSION</item>
+        <item>S’MORES PIE</item>
+        <item>OREO® MADNESS</item>
+    </string-array>
+
+    <string-array name="dessertPrices">
+        <item>$69.00</item>
+        <item>$69.00</item>
+        <item>$69.00</item>
+    </string-array>
+
+    <string-array name="dessertDesc">
+        <item>A warm brownie covered in chocolate fudge sauce, vanilla ice cream, caramel sauce and chopped nuts.</item>
+        <item>Chocolate ganache filling in a graham cracker crust, topped with toasted marshmallows.</item>
+        <item>Two Oreo® cookies sandwiched with vanilla ice cream and topped with hot fudge sauce.</item>
+    </string-array>
+
+    <string-array name="dessertImages">
+        <item>@drawable/brownie</item>
+        <item>@drawable/smores</item>
+        <item>@drawable/oreo</item>
+    </string-array>
+
+    <string name="dessert">Desserts</string>
+    <string name="drink">Drinks</string>
+
+
+    <string-array name="availableDrinks">
+        <item>PURPLE REIGN GIN AND TONIC</item>
+        <item>TROPICAL RASPBERRY TEA</item>
+        <item>JACKBERRY SMASH</item>
+    </string-array>
+
+    <string-array name="drinkPrices">
+        <item>59.00</item>
+        <item>29.00</item>
+        <item>55.00</item>
+    </string-array>
+
+    <string-array name="drinkDesc">
+        <item>Gin, simple and ginger syrups, lime juice, tonic water, Chambord and blueberries.</item>
+        <item>Raspberries, guava syrup, fresh lemon and lime juices, agave nectar and black tea.</item>
+        <item>Jack Daniel’s Tennessee Whiskey, Peach Schnapps, Red Sangria syrup, mint leaves, blackberries and lemon-lime soda.</item>
+    </string-array>
+
+    <string-array name="drinkImages">
+        <item>@drawable/purplegin</item>
+        <item>@drawable/raspberrytea</item>
+        <item>@drawable/jackberrysmash</item>
+    </string-array>
+
+
+    <string name="addOrder">Add To Order</string>
+    <string name="menu">Menu</string>
+    <string name="back">Back</string>
+    <string name="picture_of_food">Picture of food</string>
+    <string name="desserts">Desserts</string>
+    <string name="call_waiter">Call waiter</string>
+    <string name="waiter_called">Waiter called</string>
+    <string name="view_bill">View bill</string>
+    <string name="drinks">Drinks</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="appetizers">Appetizers</string>
+    <string name="main_courses">Main Courses</string>
+
+
+</resources>
