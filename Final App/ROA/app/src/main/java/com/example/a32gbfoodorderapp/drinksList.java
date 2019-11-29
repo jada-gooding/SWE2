@@ -27,16 +27,31 @@ public class drinksList extends AppCompatActivity {
                 b.putInt("drinkName", position);
                 i.putExtras(b);
                 startActivity(i);
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
             }
         });
     }
+
     public void back(View view)
     {
-        startActivity(new Intent(this,MainActivity.class));
+        super.finish();
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+        //startActivity(new Intent(this,MainActivity.class));
     }
 
     public void viewBill(View view) {
         Intent i = new Intent(drinksList.this, BillActivity.class);
         startActivity(i);
+        overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
     }
+
+//    public void back(View view)
+//    {
+//        startActivity(new Intent(this,MainActivity.class));
+//    }
+//
+//    public void viewBill(View view) {
+//        Intent i = new Intent(drinksList.this, BillActivity.class);
+//        startActivity(i);
+//    }
 }

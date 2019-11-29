@@ -1,12 +1,12 @@
 package com.example.a32gbfoodorderapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class splashScreen extends AppCompatActivity {
     private static int SPLASH_TIME_OUT = 4000;
@@ -23,6 +23,7 @@ public class splashScreen extends AppCompatActivity {
             public void run() {
                 Intent i = new Intent(splashScreen.this, MainActivity.class);
                 startActivity(i);
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
                 finish();
             }
         }, SPLASH_TIME_OUT);

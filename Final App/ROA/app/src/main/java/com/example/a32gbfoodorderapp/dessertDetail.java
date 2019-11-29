@@ -82,7 +82,7 @@ public class dessertDetail extends AppCompatActivity {
 
         String newPrice = String.valueOf(p);
 
-        // System.out.println("new Price " + newPrice);
+       // System.out.println("new Price " + newPrice);
 
 
         if(db.insertData(name, itemQty, newPrice))
@@ -95,7 +95,9 @@ public class dessertDetail extends AppCompatActivity {
 
     public void back(View view)
     {
-        startActivity(new Intent(this,dessertList.class));
+        super.finish();
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+        //startActivity(new Intent(this,mainCourseList.class));
     }
 
 }

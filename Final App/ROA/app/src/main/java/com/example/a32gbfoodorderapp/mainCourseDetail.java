@@ -71,7 +71,7 @@ public class mainCourseDetail extends AppCompatActivity {
 
         price = price.replace("$", "");
 
-        // System.out.println("Price in string " + price);
+       // System.out.println("Price in string " + price);
 
         double p = Double.parseDouble(price);
         int qty = Integer.parseInt(itemQty);
@@ -91,8 +91,11 @@ public class mainCourseDetail extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "Order not added", Toast.LENGTH_SHORT).show();
 
     }
+
     public void back(View view)
     {
-        startActivity(new Intent(this,mainCourseList.class));
+        super.finish();
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+        //startActivity(new Intent(this,mainCourseList.class));
     }
 }

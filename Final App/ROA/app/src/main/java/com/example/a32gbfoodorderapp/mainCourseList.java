@@ -26,17 +26,21 @@ public class mainCourseList extends AppCompatActivity {
                 b.putInt("mainCourseName", position);
                 i.putExtras(b);
                 startActivity(i);
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
             }
         });
 
     }
     public void back(View view)
     {
-        startActivity(new Intent(this,MainActivity.class));
+        super.finish();
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+        //startActivity(new Intent(this,MainActivity.class));
     }
 
     public void viewBill(View view) {
         Intent i = new Intent(mainCourseList.this, BillActivity.class);
         startActivity(i);
+        overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
     }
 }

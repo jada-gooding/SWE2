@@ -39,7 +39,7 @@
 
 
     <string-array name="availableMainCourse">
-        <item>STEAK AND GARLIC FRIES</item>
+        <item>STEAK AND GARLIC FRIES*</item>
         <item>CRISPY CHICKEN TENDERS</item>
         <item>WICKED CHICKEN</item>
     </string-array>

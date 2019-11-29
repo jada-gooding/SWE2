@@ -94,6 +94,8 @@ public class drinksDetail extends AppCompatActivity {
     }
     public void back(View view)
     {
-        startActivity(new Intent(this,drinksList.class));
+        super.finish();
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+        //startActivity(new Intent(this,mainCourseList.class));
     }
 }
